@@ -6,5 +6,4 @@ This macro requires the KymoResliceWide plugin for ImageJ/Fiji to run.
 KymosFromRoiList applies the KymoResliceWide plugin to all elements in the roi list.
 It will automatically save the generated kymopgraphs as tif files.
 There are options included to: 
-(1) save the regions/lines of interest
-(2) stretch kymographs in x-y dimension to facilitate analysis later on
+(1) save the regions/lines of interest; (2) stretch kymographs in x-y dimension to facilitate analysis later on.
