@@ -1,4 +1,4 @@
-# KymosFromRoiList
+# KymoFromRoiList
 This is a macro to generate Kymographs from multiple rois for a timeseries designed for Fiji/ImageJ.
 
 This macro requires the KymoResliceWide plugin for ImageJ/Fiji to run.
