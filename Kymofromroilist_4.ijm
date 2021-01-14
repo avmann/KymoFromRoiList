@@ -1,4 +1,4 @@
-//generate and save kymographs from rois, save rois in the process. v0.04 by Andre Voelzmann
+//generate and save kymographs from rois, save rois in the process. v0.4 by Andre Voelzmann
 //needs KymoResliceWide plugin/macro
 
 macro "kymos from rois [q]" {
